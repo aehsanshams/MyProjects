@@ -21,7 +21,7 @@
 }
 
 .container{
-    width: 1400px;
+    width: 1200px;
     margin: 0 auto;
 }
 
@@ -91,8 +91,8 @@ a{
     font-size: 7em;
     color:rgb(231, 231, 231);
 
-    bottom: -10%;
-    left: 5%;
+    bottom: -7%;
+    left: 7%;
     font-weight: bold;
     transition: all 3s;
 }
